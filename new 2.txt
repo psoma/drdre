@@ -1,0 +1,32 @@
+1) Stuff in intro not updated
+2) NAB to host MX during co-existence (whole way)
+3) Exchange Archiving? 5GB mailbox limit.... then what?
+4) DLP for email?
+5) As discussed, would like a proforma Sharepoint Site design (permissions etc.)
+6) 5.6 and 5.7 should be merged
+7) One Drive - different experience prior to data migration
+8) 5.8.1 - want single sign on experience.
+9) p119 details on Polycom and Evoko federation very light - this is a promise more than a design.
+10) p85 federation with NAB for IM?
+11) p121 location based AD structure was dropped
+12) p123 computer naming standards don't cater for non-7 digit serials
+13) p124 computer and user GPOs very light. No regional settings, settings for Cortana, security controls for standard users etc.
+14) p131 confirm Okta intergration already established by H&I
+15) p134 confirm FIM already activated
+16) p175 reference to patching cycle section "3.2.5.3.6" - this is not a real section.
+17) p184 map layers to numbers
+18) SCCM only refers to Win10 SOE. Need Win 7 SOE too (but mention TBD what hardware this will be rolled out to prior to creation)
+19) p187 Windows SOE should be as bare as possible and all apps deployed as L2.
+20) p187 Office needs to be C2R versions.
+21) p192 Talks of customisations that should be in the GPO section.
+22) p197 the split partitions sound like a recipe for user disaster. Can we just have a single 256GB partition?
+23) p198 again, GPOs distributed - can we just reference all of these as an appendix.
+24) p201 need to add SafeBoot
+25) 
+
+General:
+
+1) Firewall rules included for some components (SCCM) not others (S4B)
+2) Service now inte
+3) No mention of AppDNA testing
+4) How will BIOS updates be handled?
